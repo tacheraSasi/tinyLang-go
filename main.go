@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	input := "5 + 3 - 2"
+	input := "5 + 3 - 2 -3 + 4"
 	fmt.Println("Input:", input)
 
 

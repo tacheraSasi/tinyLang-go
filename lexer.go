@@ -15,6 +15,10 @@ const (
 	UNKNOWN = "UNKNOWN" // Unknown token
 )
 
+type Token struct{
+	
+}
+
 func Lexer(){
 
 }
